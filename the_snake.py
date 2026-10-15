@@ -1,7 +1,7 @@
 """Классическая игра «Змейка» на Pygame."""
 
-from random import choice
 import sys
+from random import choice
 
 import pygame as pg
 
